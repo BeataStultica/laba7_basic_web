@@ -1,0 +1,40 @@
+{
+    "fruits": [
+        {
+            "title": "Яблуко",
+            "id": 1,
+            "image": "apple.jpg",
+            "price": 10
+        },
+        {
+            "title": "Банан",
+            "id": 2,
+            "image": "banana.jfif",
+            "price": 60
+        },
+        {
+            "title": "Груша",
+            "id": 3,
+            "image": "pear.jpg",
+            "price": 30
+        },
+        {
+            "title": "Слива",
+            "id": 4,
+            "image": "plum.jfif",
+            "price": 20
+        },
+        {
+            "title": "Ананас",
+            "id": 5,
+            "image": "pineapple.jpg",
+            "price": 100
+        },
+        {
+            "title": "Виноград",
+            "id": 6,
+            "image": "grape.jfif",
+            "price": 80
+        }
+    ]
+}
