@@ -1,8 +1,14 @@
 import React from "react"
-
+import Header from "./Header"
+import Content from "./Content"
+import Image from "./Image"
 function Home() {
     return (
-        <header>This is the header</header>
+        <div className="body">
+        <Header/>
+        <Content/>
+        <Image/>
+        </div>
     )
 }
 
